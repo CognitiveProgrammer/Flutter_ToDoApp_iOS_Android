@@ -12,7 +12,7 @@ The material design is mainly build using 'Scaffold` which provide basic app ele
 
 Here is our first example of `MaterialApp`  where the widgets are arranged like this
 
-![](https://github.com/DakshHub/Flutter_MobileApp_Development/blob/master/Chapter-%202/Chapter%202-0.png)
+![](https://github.com/9lean/Flutter_ToDoApp_iOS_Android/blob/master/Chapter-2/Chapter%202-0.png)
 
 and here is how our code for `widget class MyApp`  looks like
 
@@ -45,7 +45,7 @@ In Flutter, there are widget containers which take the array of widgets and thos
 
 Let's display multiple items in display area using `Column`, the arrangement of widgets shall look like
 
-![](https://github.com/DakshHub/Flutter_MobileApp_Development/blob/master/Chapter-%202/Chapter%202-1.png)
+![](https://github.com/9lean/Flutter_ToDoApp_iOS_Android/blob/master/Chapter-2/Chapter%202-1.png)
 
 And the code changes as 
 
