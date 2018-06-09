@@ -24,7 +24,7 @@ Flutter made app development easy because it designs the screen using widgets.
 
 Typically a flutter application looks like this
 
-![Flutter Widget Framework](https://github.com/DakshHub/Flutter_MobileApp_Development/blob/master/Chapter-%200/Widget%20Framework.png)
+![Flutter Widget Framework](https://github.com/9lean/Flutter_ToDoApp_iOS_Android/blob/master/Chapter-0/Widget%20Framework.png)
 
 ## 0.3: A short intro to Stateless and Stateful widget(s)
 
