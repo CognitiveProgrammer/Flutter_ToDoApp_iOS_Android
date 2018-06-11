@@ -1,6 +1,6 @@
 # Chapter - 1: Hello Flutter
 
-Let's create the first __Hello Flutter__ Application. By the end of this chapter, we shall be able to display the texts onto the screen.
+Let's create the first __Hello Flutter__ Application. By the end of this chapter, we shall be able to display basic texts onto the screen.
 
 ## 1.0: Setup & Installation
 
@@ -25,7 +25,7 @@ The code structure starts with a `main()` function which loads a widget. For sim
 
 Everything is a widget in flutter, so Text has to be displayed using what we call `Text widget`. However, before we go ahead and display texts on screen, we need to remember a couple of points about the widgets.
 
-Technically, though not differentiated explicitly in flutter, we can consider widgets are of two types. 
+Technically, though not differentiated explicitly in flutter, widgets are of two types. 
 - Widgets which can act as a container and hold different widgets inside it
 - Child only widget, which needs a container widget as a parent 
  
