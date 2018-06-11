@@ -1,6 +1,8 @@
 # Flutter : Mobile Application Development - A TODO App for Android and iOS
 
-__Flutter__ is an SDK which is used for creating Mobile Applications where single source code is used for both Android and iOS using google's __Dart__ Programming Language. More details about this SDK is present at [flutter.io](http://www.flutter.io)
+__Flutter__ is an mobile application development SDK from Google, which is used for creating Mobile Applications for iOS and Android using a common source using google's __Dart__ Programming Language. More details about this SDK is present at [flutter.io](http://www.flutter.io)
+
+This is a mini eBook on learning Flutter, which at the end will create a basic TODO Application
 
 
 # Flow
@@ -21,7 +23,7 @@ Please follow the array of chapters in sequence. Each chapter contains the sourc
 
 # Learning by creating usable application (A ToDo App)
 
-The tutorial is designed in such a way that at the end, you will be able to create a running ToDo app for Android as well as for iOS. Here is what the layout of the todo app shall look like
+The tutorial is designed in such a way that at the end, you will be able to create a running ToDo app for Android as well as for iOS. Here is how the layout of the todo app shall look like
 
 #### The Landing Page
 
